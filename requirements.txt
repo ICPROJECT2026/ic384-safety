@@ -1,0 +1,4 @@
+# Person detector dependency; install into the Python environment used by ROS2.
+# ROS2, cv_bridge and camera drivers are system dependencies; see package.xml.
+# Jetson PyTorch/CUDA must match the target JetPack environment.
+ultralytics
